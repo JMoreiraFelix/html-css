@@ -45,9 +45,7 @@ a {
 }
 
 div {
-    padding-top: 10vh;
-    padding-bottom: 10vh;
-    padding-left: 30px;
+    padding: 10vh 30px;
     line-height: 2em;
     display: flex;
     flex-direction: column;
@@ -62,10 +60,6 @@ div p {
     font-size: 2vw;
     font-weight: bold;
     padding: 10px 10px 15px;
-}
-
-.none {
-    padding-top: 0px;
 }
 
 .img {
